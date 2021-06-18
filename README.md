@@ -4,4 +4,4 @@ Download the livery pack
 
 Unzip
 
-Copy z-msfs-<aircraft-model>-<livery-name>-livery folder in MSFS Community folder
+Copy z-msfs-\<aircraft-model\>-\<livery-name\>-livery folder in MSFS Community folder
