@@ -1,4 +1,5 @@
-# hello-world
-Tutorial
+# AERAMA MSFS Liveries
 
-This is some changes
+Download the livery pack
+Unzip
+Copy z-msfs-<aircraft-model>-<livery-name>-livery folder in MSFS Community folder
